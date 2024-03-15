@@ -73,4 +73,4 @@ After the formatting, it doesn't really matter how you partition it, if you do i
 That is because the new ID code format is sorted in the same way, normal numbers are.
 <br>
 <br>
-Pretty sure it broke, probably because it was a test and the bitwise operations had numerical losses.
+Pretty sure it broke, probably because it was a test and the bitwise operations might have had numerical losses.
